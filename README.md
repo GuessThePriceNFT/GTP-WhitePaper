@@ -71,19 +71,19 @@ The project consists of three main phases:
 ### Phase 1: Bitcoin GuessThePrice
 
 - **Blockchain**: Base chain
-- **Timeline**: Q1 2024
+- **Timeline**: Q1 2025
 - **Goal**: Launch the first NFT series based on Bitcoin prices.
 
 ### Phase 2: Ethereum GuessThePrice
 
 - **Blockchain**: Arbitrum chain
-- **Timeline**: Q2 2024
+- **Timeline**: Q2 2025
 - **Goal**: Launch the NFT series based on Ethereum prices.
 
 ### Phase 3: Solana GuessThePrice
 
 - **Blockchain**: Solana chain
-- **Timeline**: Q3 2024
+- **Timeline**: Q3 2025
 - **Goal**: Launch the NFT series based on Solana prices.
 
 This roadmap aims to enhance the sustainability of the project and reach a broader user base across different networks.
